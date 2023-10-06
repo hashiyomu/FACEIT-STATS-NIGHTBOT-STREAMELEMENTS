@@ -22,7 +22,7 @@ Examples: <br>
 How you do can deserialize response using Streamelements? I attached an example - Format.php.
 
 
-You need to upload the script to your server with PHP support. After the action you need to fetch URL to your script by StreamElements.
+You need to upload the script to your server with PHP support. After the action you need to fetch your script URL by StreamElements.
 Example: $(urlfetch http://yourserver.com/Format.php?nick=s1mple)
 Result: 
 
