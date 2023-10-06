@@ -5,7 +5,7 @@ CS2 released out and many streamers have question about !elo command for their c
 
 Ways to get stats.
 1) Satont API (https://api.satont.ru/).
-It works for CS2 already. API returns JSON response.
+It works for FACEIT CS2 stats already. API returns JSON response.
 
 Example: https://api.satont.ru/faceit?nick=s1mple.
 
