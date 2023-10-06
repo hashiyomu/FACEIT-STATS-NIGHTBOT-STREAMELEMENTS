@@ -1,4 +1,5 @@
 # FACEIT-STATS
+Contact me for questions: https://t.me/hashiyomu
 <h1> Ways to get elo and other stats for StreamElements, Nightbot or other purposes. </h1>
 
 CS2 released out and many streamers have question about !elo command for their chat bots.
