@@ -12,6 +12,7 @@ Example: https://api.satont.ru/faceit?nick=s1mple.
 <h2> Nightbot</h2>
 For Nightbot you can deserialize JSON by its own deserializer. 
 Examples: <br>
+
 ><h5>$(eval const api = $(urlfetch json https://api.satont.ru/faceit?nick=s1mple); if (!api.elo) {'Failed to get stats'} else { 'CS2 Elo: ' + api.elo + '.'})</h5>
 
 ![image](https://github.com/hashiyomu/FACEIT-ELO-PARSER/assets/119516076/29aaa889-9df2-46a6-ab1e-3e53a0d91980)
