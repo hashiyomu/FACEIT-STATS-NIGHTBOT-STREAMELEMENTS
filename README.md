@@ -28,5 +28,4 @@ Result:
 
 ![image](https://github.com/hashiyomu/FACEIT-ELO-PARSER/assets/119516076/35d844cc-2f9a-42b3-b5e5-e24df33c3f50)
 
-2) More trust way.
-Use Faceit API. 
+2) More trust way - Use Faceit API. You will not be dependent on other API like Satont.
