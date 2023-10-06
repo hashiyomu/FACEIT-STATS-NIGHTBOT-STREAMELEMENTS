@@ -10,7 +10,7 @@ It works for CS2 already. API returns JSON response.
 Example: https://api.satont.ru/faceit?nick=s1mple.
 
 For Nightbot you can deserialize JSON by its own deserializer. 
-Examples: 
+Examples: <br>
 >$(eval const api = $(urlfetch json https://api.satont.ru/faceit?nick=s1mple); if (!api.elo) {'Failed to parse'} else { 'CS2 Elo: ' + api.elo + '.'})
 
 ![image](https://github.com/hashiyomu/FACEIT-ELO-PARSER/assets/119516076/29aaa889-9df2-46a6-ab1e-3e53a0d91980)
