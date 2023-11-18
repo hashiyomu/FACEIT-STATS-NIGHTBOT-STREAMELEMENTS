@@ -23,7 +23,7 @@ Examples: <br>
 ![image](https://github.com/hashiyomu/FACEIT-ELO-PARSER/assets/119516076/2890eef8-a16d-475e-84fe-e929f909d5ed)
 
 <h2> StreamElements</h2>
-How you do can deserialize response using Streamelements? I attached an example - Format.php.
+How you do can deserialize response using Streamelements? 
 
 You need to upload the script to your server with PHP support. After the action you need to fetch your script URL by StreamElements.
 Result: 
