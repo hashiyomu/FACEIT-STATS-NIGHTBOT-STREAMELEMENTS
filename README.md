@@ -29,5 +29,7 @@ You need to upload the script to your server with PHP support. After the action 
 Result: 
 
 ![image](https://github.com/hashiyomu/FACEIT-ELO-PARSER/assets/119516076/35d844cc-2f9a-42b3-b5e5-e24df33c3f50)
+2) api.faceit.myhosting (http://api.faceit.myhosting.info:81)
+Example: http://api.faceit.myhosting.info:81/?n=friberg
 
-2) More trust way - Use Faceit API. You will not be dependent on other API like Satont.
+3) More trust way - Use Faceit API. You will not be dependent on other API like Satont.
